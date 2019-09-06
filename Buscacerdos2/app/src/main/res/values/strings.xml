@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Buscacerdos</string>
+    <string name="action_settings">Settings</string>
+    <string name="Iniciarjuego">Iniciar juego</string>
+    <string name="configurar">Configurar</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="seleccion_de_personaje">Seleccion de personaje</string>
+    <string name="logocerdo">Logocerdo</string>
+    <string name="textview">TextView</string>
+    <string name="buscacerdos">BuscaCerdos</string>
+    <string name="dialog_message">El juego es un similar al clasico buscaminas,\nDestapa las casillas pulsandolas:\nDebes encontrar todos los cerdos sin destaparlos,\nlos numeros te indican cuantos cerdos hay alrededor.\nPara marcar una casilla que sepas que es un cerdo,\nhaz una pulsacion larga.\nSi haces una pulsacion larga en un numero, perderas.</string>
+    <string name="dialog_title">INSTRUCCIONES</string>
+    <string name="salir">Salir</string>
+    <string name="perderCerdo">HAS PULSADO UN CERDITO, HAS PERDIDO</string>
+    <string name="perderNumero">ESO NO ES UN CERDITO, HAS PERDIDO</string>
+    <string name="ganar">HAS ENCONTRADO TODOS LOS CERDOS,ASI SE HACE</string>
+    <string name="todo">TODO</string>
+</resources>
